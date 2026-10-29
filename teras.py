@@ -4,7 +4,7 @@ import numpy as np
 
 st.set_page_config(layout="wide")
 
-st.title("Teraskonstruktsiooni projek")
+st.title("Teraskonstruktsiooni projekt")
 
 # --- KOOSTAVAD KONSTANTID (Mitte-muudetavad) ---
 g_plekk_kg = 10.0
